@@ -1,12 +1,6 @@
-#
-# This file contains configuration flags to customize your site
-#
+name: ZatrazZ Vault
 
-# Name of your site (displayed in the header)
-name: Your Name
-
-# Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Toolchain Engineer working at Linaro
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
