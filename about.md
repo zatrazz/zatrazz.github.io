@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hi, my name is Adhemerval Zanella and I am a Toolchain Engineer working at Linaro.org.  I work mostly on [The GNU C Library (glibc)](https://www.gnu.org/software/libc/), although from times to time I venture in different projects (LLVM, GCC, Android, etc.).
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[zatrazz@gmail.com](mailto:zatrazz@gmail.com)
